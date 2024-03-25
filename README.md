@@ -5,6 +5,5 @@
 
 ### Here is the brief overview of how this feature work though a video demo:
 
-
-Uploading infinite scroll.mp4…
+https://github.com/mky120799/infinite-scroll/assets/75425072/82f002fe-2624-4579-bef6-1eec33bf436e
 
